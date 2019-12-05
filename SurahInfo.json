@@ -1,0 +1,914 @@
+[
+  {
+    "No": 1,
+    "Name": "Surah Al-Fatihah",
+    "ArabicName": "الفاتحة",
+    "NumberOfVerse": 7,
+    "OrderOfRevelation": 5,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 2,
+    "Name": "Surah Al-Baqarah",
+    "ArabicName": "البقرة",
+    "NumberOfVerse": 286,
+    "OrderOfRevelation": 87,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 3,
+    "Name": "Surah Ali 'Imran",
+    "ArabicName": "آل عمران",
+    "NumberOfVerse": 200,
+    "OrderOfRevelation": 89,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 4,
+    "Name": "Surah An-Nisa'",
+    "ArabicName": "النّساء",
+    "NumberOfVerse": 176,
+    "OrderOfRevelation": 92,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 5,
+    "Name": "Surah Al-Ma'idah",
+    "ArabicName": "المائدة",
+    "NumberOfVerse": 120,
+    "OrderOfRevelation": 112,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 6,
+    "Name": "Surah Al-An'am",
+    "ArabicName": "الانعام",
+    "NumberOfVerse": 165,
+    "OrderOfRevelation": 55,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 7,
+    "Name": "Surah Al-A’raf",
+    "ArabicName": "الأعراف",
+    "NumberOfVerse": 206,
+    "OrderOfRevelation": 39,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 8,
+    "Name": "Surah Al-Anfal",
+    "ArabicName": "الأنفال",
+    "NumberOfVerse": 75,
+    "OrderOfRevelation": 88,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 9,
+    "Name": "Surah At-Taubah",
+    "ArabicName": "التوبة‎‎",
+    "NumberOfVerse": 129,
+    "OrderOfRevelation": 113,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 10,
+    "Name": "Surah Yunus",
+    "ArabicName": "يونس",
+    "NumberOfVerse": 109,
+    "OrderOfRevelation": 51,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 11,
+    "Name": "Surah Hud",
+    "ArabicName": "هود",
+    "NumberOfVerse": 123,
+    "OrderOfRevelation": 52,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 12,
+    "Name": "Surah Yusuf",
+    "ArabicName": "يوسف",
+    "NumberOfVerse": 111,
+    "OrderOfRevelation": 53,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 13,
+    "Name": "Surah Ar-Ra’d",
+    "ArabicName": "الرعد",
+    "NumberOfVerse": 43,
+    "OrderOfRevelation": 96,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 14,
+    "Name": "Surah Ibrahim",
+    "ArabicName": "إبراهيم",
+    "NumberOfVerse": 52,
+    "OrderOfRevelation": 72,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 15,
+    "Name": "Surah Al-Hijr",
+    "ArabicName": "الحجر",
+    "NumberOfVerse": 99,
+    "OrderOfRevelation": 54,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 16,
+    "Name": "Surah An-Nahl",
+    "ArabicName": "النحل",
+    "NumberOfVerse": 128,
+    "OrderOfRevelation": 70,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 17,
+    "Name": "Surah Al-Isra'",
+    "ArabicName": null,
+    "NumberOfVerse": 111,
+    "OrderOfRevelation": 50,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 18,
+    "Name": "Surah Al-Kahf",
+    "ArabicName": "الكهف",
+    "NumberOfVerse": 110,
+    "OrderOfRevelation": 69,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 19,
+    "Name": "Surah Maryam",
+    "ArabicName": "مريم",
+    "NumberOfVerse": 98,
+    "OrderOfRevelation": 44,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 20,
+    "Name": "Surah Ta Ha",
+    "ArabicName": "طه",
+    "NumberOfVerse": 135,
+    "OrderOfRevelation": 45,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 21,
+    "Name": "Surah Al-Anbiya",
+    "ArabicName": "الأنبياء",
+    "NumberOfVerse": 112,
+    "OrderOfRevelation": 73,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 22,
+    "Name": "Surah Al-Hajj",
+    "ArabicName": "الحجّ",
+    "NumberOfVerse": 78,
+    "OrderOfRevelation": 103,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 23,
+    "Name": "Surah Al-Mu’minun",
+    "ArabicName": "المؤمنون",
+    "NumberOfVerse": 118,
+    "OrderOfRevelation": 74,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 24,
+    "Name": "Surah An-Nur",
+    "ArabicName": "النور",
+    "NumberOfVerse": 64,
+    "OrderOfRevelation": 102,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 25,
+    "Name": "Surah Al-Furqan",
+    "ArabicName": "الفرقان",
+    "NumberOfVerse": 77,
+    "OrderOfRevelation": 42,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 26,
+    "Name": "Surah Asy-Syu'ara'",
+    "ArabicName": "الشعراء",
+    "NumberOfVerse": 227,
+    "OrderOfRevelation": 47,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 27,
+    "Name": "Surah An-Naml",
+    "ArabicName": "النمل",
+    "NumberOfVerse": 93,
+    "OrderOfRevelation": 48,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 28,
+    "Name": "Surah Al-Qasas",
+    "ArabicName": "القصص",
+    "NumberOfVerse": 88,
+    "OrderOfRevelation": 49,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 29,
+    "Name": "Surah Al-'Ankabut",
+    "ArabicName": "العنكبوت",
+    "NumberOfVerse": 69,
+    "OrderOfRevelation": 85,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 30,
+    "Name": "Surah Ar-Rum",
+    "ArabicName": "الروم",
+    "NumberOfVerse": 60,
+    "OrderOfRevelation": 84,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 31,
+    "Name": "Surah Luqman",
+    "ArabicName": "لقمان",
+    "NumberOfVerse": 34,
+    "OrderOfRevelation": 57,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 32,
+    "Name": "Surah As-Sajdah",
+    "ArabicName": "السجدة",
+    "NumberOfVerse": 30,
+    "OrderOfRevelation": 75,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 33,
+    "Name": "Surah Al-Ahzab",
+    "ArabicName": "الْأحزاب",
+    "NumberOfVerse": 73,
+    "OrderOfRevelation": 90,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 34,
+    "Name": "Surah Saba’",
+    "ArabicName": "سبأ",
+    "NumberOfVerse": 54,
+    "OrderOfRevelation": 58,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 35,
+    "Name": "Surah Fatir",
+    "ArabicName": "فاطر",
+    "NumberOfVerse": 45,
+    "OrderOfRevelation": 43,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 36,
+    "Name": "Surah Ya Sin",
+    "ArabicName": "يس",
+    "NumberOfVerse": 83,
+    "OrderOfRevelation": 41,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 37,
+    "Name": "Surah As-Saffat",
+    "ArabicName": "الصافات",
+    "NumberOfVerse": 182,
+    "OrderOfRevelation": 56,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 38,
+    "Name": "Surah Sad",
+    "ArabicName": "ص",
+    "NumberOfVerse": 88,
+    "OrderOfRevelation": 38,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 39,
+    "Name": "Surah Az-Zumar",
+    "ArabicName": "الزمر",
+    "NumberOfVerse": 75,
+    "OrderOfRevelation": 59,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 40,
+    "Name": "Surah Ghafir",
+    "ArabicName": "غافر",
+    "NumberOfVerse": 85,
+    "OrderOfRevelation": 60,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 41,
+    "Name": "Surah Fussilat",
+    "ArabicName": "فصلت",
+    "NumberOfVerse": 54,
+    "OrderOfRevelation": 61,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 42,
+    "Name": "Surah Asy-Syura",
+    "ArabicName": "الشورى",
+    "NumberOfVerse": 53,
+    "OrderOfRevelation": 62,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 43,
+    "Name": "Surah Az-Zukhruf",
+    "ArabicName": "الزخرف",
+    "NumberOfVerse": 89,
+    "OrderOfRevelation": 63,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 44,
+    "Name": "Surah Ad-Dukhan",
+    "ArabicName": "الدخان",
+    "NumberOfVerse": 59,
+    "OrderOfRevelation": 64,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 45,
+    "Name": "Surah Al-Jasiyah",
+    "ArabicName": "الجاثية",
+    "NumberOfVerse": 37,
+    "OrderOfRevelation": 65,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 46,
+    "Name": "Surah Al-Ahqaf",
+    "ArabicName": "الَأحقاف",
+    "NumberOfVerse": 35,
+    "OrderOfRevelation": 66,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 47,
+    "Name": "Surah Muhammad",
+    "ArabicName": "محمد",
+    "NumberOfVerse": 38,
+    "OrderOfRevelation": 95,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 48,
+    "Name": "Surah Al-Fath",
+    "ArabicName": "الفتح",
+    "NumberOfVerse": 29,
+    "OrderOfRevelation": 111,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 49,
+    "Name": "Surah Al-Hujurat",
+    "ArabicName": "الحجرات",
+    "NumberOfVerse": 18,
+    "OrderOfRevelation": 106,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 50,
+    "Name": "Surah Qaf",
+    "ArabicName": "ق",
+    "NumberOfVerse": 45,
+    "OrderOfRevelation": 34,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 51,
+    "Name": "Surah Az-Zariyat",
+    "ArabicName": "الذاريات",
+    "NumberOfVerse": 60,
+    "OrderOfRevelation": 67,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 52,
+    "Name": "Surah At-Tur",
+    "ArabicName": "الطور",
+    "NumberOfVerse": 49,
+    "OrderOfRevelation": 76,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 53,
+    "Name": "Surah An-Najm",
+    "ArabicName": "النجم",
+    "NumberOfVerse": 62,
+    "OrderOfRevelation": 23,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 54,
+    "Name": "Surah Al-Qamar",
+    "ArabicName": "القمر",
+    "NumberOfVerse": 55,
+    "OrderOfRevelation": 37,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 55,
+    "Name": "Surah Ar-Rahman",
+    "ArabicName": "الرحمن",
+    "NumberOfVerse": 78,
+    "OrderOfRevelation": 97,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 56,
+    "Name": "Surah Al-Waqi’ah",
+    "ArabicName": "الواقعة",
+    "NumberOfVerse": 96,
+    "OrderOfRevelation": 46,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 57,
+    "Name": "Surah Al-Hadid",
+    "ArabicName": "الحديد",
+    "NumberOfVerse": 29,
+    "OrderOfRevelation": 94,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 58,
+    "Name": "Surah Al-Mujadilah",
+    "ArabicName": "المجادلة",
+    "NumberOfVerse": 22,
+    "OrderOfRevelation": 105,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 59,
+    "Name": "Surah Al-Hasyr",
+    "ArabicName": "الحشر",
+    "NumberOfVerse": 24,
+    "OrderOfRevelation": 101,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 60,
+    "Name": "Surah Al-Mumtahanah",
+    "ArabicName": "الممتحنة",
+    "NumberOfVerse": 13,
+    "OrderOfRevelation": 91,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 61,
+    "Name": "Surah As-Saff",
+    "ArabicName": "الصف",
+    "NumberOfVerse": 14,
+    "OrderOfRevelation": 109,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 62,
+    "Name": "Surah Al-Jumu’ah",
+    "ArabicName": "الجمعة",
+    "NumberOfVerse": 11,
+    "OrderOfRevelation": 110,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 63,
+    "Name": "Surah Al-Munafiqun",
+    "ArabicName": "المنافقون",
+    "NumberOfVerse": 11,
+    "OrderOfRevelation": 104,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 64,
+    "Name": "Surah At-Tagabun",
+    "ArabicName": "التغابن",
+    "NumberOfVerse": 18,
+    "OrderOfRevelation": 108,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 65,
+    "Name": "Surah At-Talaq",
+    "ArabicName": "الطلاق",
+    "NumberOfVerse": 12,
+    "OrderOfRevelation": 99,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 66,
+    "Name": "Surah At-Tahrim",
+    "ArabicName": "التحريم",
+    "NumberOfVerse": 12,
+    "OrderOfRevelation": 107,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 67,
+    "Name": "Surah Al-Mulk",
+    "ArabicName": "الملك",
+    "NumberOfVerse": 30,
+    "OrderOfRevelation": 77,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 68,
+    "Name": "Surah Al-Qalam",
+    "ArabicName": "القلم",
+    "NumberOfVerse": 52,
+    "OrderOfRevelation": 2,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 69,
+    "Name": "Surah Al-Haqqah",
+    "ArabicName": "الحآقة",
+    "NumberOfVerse": 52,
+    "OrderOfRevelation": 78,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 70,
+    "Name": "Surah Al-Ma’arij",
+    "ArabicName": "المعارج",
+    "NumberOfVerse": 44,
+    "OrderOfRevelation": 79,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 71,
+    "Name": "Surah Nuh",
+    "ArabicName": "نوح",
+    "NumberOfVerse": 28,
+    "OrderOfRevelation": 71,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 72,
+    "Name": "Surah Al-Jinn",
+    "ArabicName": "الجن",
+    "NumberOfVerse": 28,
+    "OrderOfRevelation": 40,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 73,
+    "Name": "Surah Al-Muzzammil",
+    "ArabicName": "المزمل",
+    "NumberOfVerse": 20,
+    "OrderOfRevelation": 3,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 74,
+    "Name": "Surah Al-Muddassir",
+    "ArabicName": "المدثر",
+    "NumberOfVerse": 56,
+    "OrderOfRevelation": 4,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 75,
+    "Name": "Surah Al-Qiyamah",
+    "ArabicName": "القيامة",
+    "NumberOfVerse": 40,
+    "OrderOfRevelation": 31,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 76,
+    "Name": "Surah Al-Insan",
+    "ArabicName": "الإنسان",
+    "NumberOfVerse": 31,
+    "OrderOfRevelation": 98,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 77,
+    "Name": "Surah Al-Mursalat",
+    "ArabicName": "المرسلات",
+    "NumberOfVerse": 50,
+    "OrderOfRevelation": 33,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 78,
+    "Name": "Surah An-Naba’",
+    "ArabicName": "النبأ",
+    "NumberOfVerse": 40,
+    "OrderOfRevelation": 80,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 79,
+    "Name": "Surah An-Nazi’at",
+    "ArabicName": "النازعات",
+    "NumberOfVerse": 46,
+    "OrderOfRevelation": 81,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 80,
+    "Name": "Surah 'Abasa",
+    "ArabicName": "عبس",
+    "NumberOfVerse": 42,
+    "OrderOfRevelation": 24,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 81,
+    "Name": "Surah At-Takwir",
+    "ArabicName": "التكوير",
+    "NumberOfVerse": 29,
+    "OrderOfRevelation": 7,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 82,
+    "Name": "Surah Al-Infitar",
+    "ArabicName": "الإنفطار",
+    "NumberOfVerse": 19,
+    "OrderOfRevelation": 82,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 83,
+    "Name": "Surah Al-Tatfif",
+    "ArabicName": "المطففين",
+    "NumberOfVerse": 36,
+    "OrderOfRevelation": 86,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 84,
+    "Name": "Surah Al-Insyiqaq",
+    "ArabicName": "الإنشقاق",
+    "NumberOfVerse": 25,
+    "OrderOfRevelation": 83,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 85,
+    "Name": "Surah Al-Buruj",
+    "ArabicName": "البروج",
+    "NumberOfVerse": 22,
+    "OrderOfRevelation": 27,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 86,
+    "Name": "Surah At-Tariq",
+    "ArabicName": "الطارق",
+    "NumberOfVerse": 17,
+    "OrderOfRevelation": 36,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 87,
+    "Name": "Surah Al-A’la",
+    "ArabicName": "الأعلى",
+    "NumberOfVerse": 19,
+    "OrderOfRevelation": 8,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 88,
+    "Name": "Surah Al-Gasyiyah",
+    "ArabicName": "الغاشية",
+    "NumberOfVerse": 26,
+    "OrderOfRevelation": 68,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 89,
+    "Name": "Surah Al-Fajr",
+    "ArabicName": "الفجر",
+    "NumberOfVerse": 30,
+    "OrderOfRevelation": 10,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 90,
+    "Name": "Surah Al-Balad",
+    "ArabicName": "البلد",
+    "NumberOfVerse": 20,
+    "OrderOfRevelation": 35,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 91,
+    "Name": "Surah Asy-Syams",
+    "ArabicName": "الشمس",
+    "NumberOfVerse": 15,
+    "OrderOfRevelation": 26,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 92,
+    "Name": "Surah Al-Lail",
+    "ArabicName": "اليل",
+    "NumberOfVerse": 21,
+    "OrderOfRevelation": 9,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 93,
+    "Name": "Surah Ad-Duha",
+    "ArabicName": "الضحى‎‎",
+    "NumberOfVerse": 11,
+    "OrderOfRevelation": 11,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 94,
+    "Name": "Surah Al-Insyirah",
+    "ArabicName": "الإنشراح‎‎",
+    "NumberOfVerse": 8,
+    "OrderOfRevelation": 12,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 95,
+    "Name": "Surah At-Tin",
+    "ArabicName": "التينِ",
+    "NumberOfVerse": 8,
+    "OrderOfRevelation": 28,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 96,
+    "Name": "Surah Al-'Alaq",
+    "ArabicName": "العلق",
+    "NumberOfVerse": 19,
+    "OrderOfRevelation": 1,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 97,
+    "Name": "Surah Al-Qadr",
+    "ArabicName": "القدرِ",
+    "NumberOfVerse": 5,
+    "OrderOfRevelation": 25,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 98,
+    "Name": "Surah Al-Bayyinah",
+    "ArabicName": "البينة",
+    "NumberOfVerse": 8,
+    "OrderOfRevelation": 100,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 99,
+    "Name": "Surah Az-Zalzalah",
+    "ArabicName": "الزلزلة‎‎",
+    "NumberOfVerse": 8,
+    "OrderOfRevelation": 93,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 100,
+    "Name": "Surah Al-'Adiyat",
+    "ArabicName": "العاديات‎‎",
+    "NumberOfVerse": 11,
+    "OrderOfRevelation": 14,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 101,
+    "Name": "Surah Al-Qari'ah",
+    "ArabicName": "القارعة‎‎",
+    "NumberOfVerse": 11,
+    "OrderOfRevelation": 30,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 102,
+    "Name": "Surah At-Takasur",
+    "ArabicName": "التكاثر‎‎",
+    "NumberOfVerse": 8,
+    "OrderOfRevelation": 16,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 103,
+    "Name": "Surah Al-'Asr",
+    "ArabicName": "العصر",
+    "NumberOfVerse": 3,
+    "OrderOfRevelation": 13,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 104,
+    "Name": "Surah Al-Humazah",
+    "ArabicName": "الهمزة‎‎",
+    "NumberOfVerse": 9,
+    "OrderOfRevelation": 32,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 105,
+    "Name": "Surah Al-Fil",
+    "ArabicName": "الفيل",
+    "NumberOfVerse": 5,
+    "OrderOfRevelation": 19,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 106,
+    "Name": "Surah Quraisy",
+    "ArabicName": "قريش",
+    "NumberOfVerse": 4,
+    "OrderOfRevelation": 29,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 107,
+    "Name": "Surah Al-Ma’un",
+    "ArabicName": "الماعون",
+    "NumberOfVerse": 7,
+    "OrderOfRevelation": 17,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 108,
+    "Name": "Surah Al-Kausar",
+    "ArabicName": "الكوثر",
+    "NumberOfVerse": 3,
+    "OrderOfRevelation": 15,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 109,
+    "Name": "Surah Al-Kafirun",
+    "ArabicName": "الكافرون",
+    "NumberOfVerse": 6,
+    "OrderOfRevelation": 18,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 110,
+    "Name": "Surah An-Nasr",
+    "ArabicName": "النصر‎‎",
+    "NumberOfVerse": 3,
+    "OrderOfRevelation": 114,
+    "PlaceOfRevelation": "Madinah"
+  },
+  {
+    "No": 111,
+    "Name": "Surah Al-Lahab",
+    "ArabicName": "اللهب‎‎",
+    "NumberOfVerse": 5,
+    "OrderOfRevelation": 6,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 112,
+    "Name": "Surah Al-Ikhlas",
+    "ArabicName": "الإخلاص‎‎",
+    "NumberOfVerse": 4,
+    "OrderOfRevelation": 22,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 113,
+    "Name": "Surah Al-Falaq",
+    "ArabicName": "الفلق",
+    "NumberOfVerse": 5,
+    "OrderOfRevelation": 20,
+    "PlaceOfRevelation": "Mekkah"
+  },
+  {
+    "No": 114,
+    "Name": "Surah An-Nas",
+    "ArabicName": "الناس",
+    "NumberOfVerse": 6,
+    "OrderOfRevelation": 21,
+    "PlaceOfRevelation": "Mekkah"
+  }
+]

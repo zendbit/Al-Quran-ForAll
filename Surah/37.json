@@ -1,0 +1,912 @@
+[
+  {
+    "No": 1,
+    "ArabicVerse": "وَالصّٰۤفّٰتِ صَفًّاۙ",
+    "Verse": "waṣ-ṣāffāti ṣaffā"
+  },
+  {
+    "No": 2,
+    "ArabicVerse": "فَالزّٰجِرٰتِ زَجْرًاۙ",
+    "Verse": "faz-zājirāti zajrā"
+  },
+  {
+    "No": 3,
+    "ArabicVerse": "فَالتّٰلِيٰتِ ذِكْرًاۙ",
+    "Verse": "fat-tāliyāti żikrā"
+  },
+  {
+    "No": 4,
+    "ArabicVerse": "اِنَّ اِلٰهَكُمْ لَوَاحِدٌۗ",
+    "Verse": "inna ilāhakum lawāḥid"
+  },
+  {
+    "No": 5,
+    "ArabicVerse": "رَبُّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِۗ",
+    "Verse": "rabbus-samāwāti wal-arḍi wa mā bainahumā wa rabbul-masyāriq"
+  },
+  {
+    "No": 6,
+    "ArabicVerse": "اِنَّا زَيَّنَّا السَّمَاۤءَ الدُّنْيَا بِزِيْنَةِ ِۨالْكَوَاكِبِۙ",
+    "Verse": "innā zayyannas-samā`ad-dun-yā bizīnatinil-kawākib"
+  },
+  {
+    "No": 7,
+    "ArabicVerse": "وَحِفْظًا مِّنْ كُلِّ شَيْطٰنٍ مَّارِدٍۚ",
+    "Verse": "wa ḥifẓam ming kulli syaiṭānim mārid"
+  },
+  {
+    "No": 8,
+    "ArabicVerse": "لَا يَسَّمَّعُوْنَ اِلَى الْمَلَاِ الْاَعْلٰى وَيُقْذَفُوْنَ مِنْ كُلِّ جَانِبٍۖ",
+    "Verse": "lā yassamma'ụna ilal-mala`il-a'lā wa yuqżafụna ming kulli jānib"
+  },
+  {
+    "No": 9,
+    "ArabicVerse": "دُحُوْرًا وَّلَهُمْ عَذَابٌ وَّاصِبٌ",
+    "Verse": "duḥụraw wa lahum 'ażābuw wāṣib"
+  },
+  {
+    "No": 10,
+    "ArabicVerse": "اِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَاَتْبَعَهٗ شِهَابٌ ثَاقِبٌ",
+    "Verse": "illā man khaṭifal-khaṭfata fa atba'ahụ syihābun ṡāqib"
+  },
+  {
+    "No": 11,
+    "ArabicVerse": "فَاسْتَفْتِهِمْ اَهُمْ اَشَدُّ خَلْقًا اَمْ مَّنْ خَلَقْنَا ۗاِنَّا خَلَقْنٰهُمْ مِّنْ طِيْنٍ لَّازِبٍ",
+    "Verse": "fastaftihim a hum asyaddu khalqan am man khalaqnā, innā khalaqnāhum min ṭīnil lāzib"
+  },
+  {
+    "No": 12,
+    "ArabicVerse": "بَلْ عَجِبْتَ وَيَسْخَرُوْنَ ۖ",
+    "Verse": "bal 'ajibta wa yaskharụn"
+  },
+  {
+    "No": 13,
+    "ArabicVerse": "وَاِذَا ذُكِّرُوْا لَا يَذْكُرُوْنَ ۖ",
+    "Verse": "wa iżā żukkirụ lā yażkurụn"
+  },
+  {
+    "No": 14,
+    "ArabicVerse": "وَاِذَا رَاَوْا اٰيَةً يَّسْتَسْخِرُوْنَۖ",
+    "Verse": "wa iżā ra`au āyatay yastaskhirụn"
+  },
+  {
+    "No": 15,
+    "ArabicVerse": "وَقَالُوْٓا اِنْ هٰذَآ اِلَّا سِحْرٌ مُّبِيْنٌ ۚ",
+    "Verse": "wa qālū in hāżā illā siḥrum mubīn"
+  },
+  {
+    "No": 16,
+    "ArabicVerse": "ءَاِذَا مِتْنَا وَكُنَّا تُرَابًا وَّعِظَامًا ءَاِنَّا لَمَبْعُوْثُوْنَۙ",
+    "Verse": "a iżā mitnā wa kunnā turābaw wa 'iẓāman a innā lamab'ụṡụn"
+  },
+  {
+    "No": 17,
+    "ArabicVerse": "اَوَاٰبَاۤؤُنَا الْاَوَّلُوْنَۗ",
+    "Verse": "a wa ābā`unal-awwalụn"
+  },
+  {
+    "No": 18,
+    "ArabicVerse": "قُلْ نَعَمْ وَاَنْتُمْ دَاخِرُوْنَۚ",
+    "Verse": "qul na'am wa antum dākhirụn"
+  },
+  {
+    "No": 19,
+    "ArabicVerse": "فَاِنَّمَا هِيَ زَجْرَةٌ وَّاحِدَةٌ فَاِذَا هُمْ يَنْظُرُوْنَ",
+    "Verse": "fa innamā hiya zajratuw wāḥidatun fa iżā hum yanẓurụn"
+  },
+  {
+    "No": 20,
+    "ArabicVerse": "وَقَالُوْا يٰوَيْلَنَا هٰذَا يَوْمُ الدِّيْنِ",
+    "Verse": "wa qālụ yā wailanā hāżā yaumud-dīn"
+  },
+  {
+    "No": 21,
+    "ArabicVerse": "هٰذَا يَوْمُ الْفَصْلِ الَّذِيْ كُنْتُمْ بِهٖ تُكَذِّبُوْنَ",
+    "Verse": "hāżā yaumul-faṣlillażī kuntum bihī tukażżibụn"
+  },
+  {
+    "No": 22,
+    "ArabicVerse": "اُحْشُرُوا الَّذِيْنَ ظَلَمُوْا وَاَزْوَاجَهُمْ وَمَا كَانُوْا يَعْبُدُوْنَ ۙ",
+    "Verse": "uḥsyurullażīna ẓalamụ wa azwājahum wa mā kānụ ya'budụn"
+  },
+  {
+    "No": 23,
+    "ArabicVerse": "مِنْ دُوْنِ اللّٰهِ فَاهْدُوْهُمْ اِلٰى صِرَاطِ الْجَحِيْمِ",
+    "Verse": "min dụnillāhi fahdụhum ilā ṣirāṭil-jaḥīm"
+  },
+  {
+    "No": 24,
+    "ArabicVerse": "وَقِفُوْهُمْ اِنَّهُمْ مَّسْـُٔوْلُوْنَ ۙ",
+    "Verse": "waqifụhum innahum mas`ụlụn"
+  },
+  {
+    "No": 25,
+    "ArabicVerse": "مَا لَكُمْ لَا تَنَاصَرُوْنَ",
+    "Verse": "mā lakum lā tanāṣarụn"
+  },
+  {
+    "No": 26,
+    "ArabicVerse": "بَلْ هُمُ الْيَوْمَ مُسْتَسْلِمُوْنَ",
+    "Verse": "bal humul-yauma mustaslimụn"
+  },
+  {
+    "No": 27,
+    "ArabicVerse": "وَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَّتَسَاۤءَلُوْنَ",
+    "Verse": "wa aqbala ba'ḍuhum 'alā ba'ḍiy yatasā`alụn"
+  },
+  {
+    "No": 28,
+    "ArabicVerse": "قَالُوْٓا اِنَّكُمْ كُنْتُمْ تَأْتُوْنَنَا عَنِ الْيَمِيْنِ",
+    "Verse": "qālū innakum kuntum ta`tụnanā 'anil-yamīn"
+  },
+  {
+    "No": 29,
+    "ArabicVerse": "قَالُوْا بَلْ لَّمْ تَكُوْنُوْا مُؤْمِنِيْنَۚ",
+    "Verse": "qālụ bal lam takụnụ mu`minīn"
+  },
+  {
+    "No": 30,
+    "ArabicVerse": "وَمَا كَانَ لَنَا عَلَيْكُمْ مِّنْ سُلْطٰنٍۚ بَلْ كُنْتُمْ قَوْمًا طٰغِيْنَ",
+    "Verse": "wa mā kāna lanā 'alaikum min sulṭān, bal kuntum qauman ṭāgīn"
+  },
+  {
+    "No": 31,
+    "ArabicVerse": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖاِنَّا لَذَاۤىِٕقُوْنَ",
+    "Verse": "fa ḥaqqa 'alainā qaulu rabbinā innā lażā`iqụn"
+  },
+  {
+    "No": 32,
+    "ArabicVerse": "فَاَغْوَيْنٰكُمْ اِنَّا كُنَّا غٰوِيْنَ",
+    "Verse": "fa agwainākum innā kunnā gāwīn"
+  },
+  {
+    "No": 33,
+    "ArabicVerse": "فَاِنَّهُمْ يَوْمَىِٕذٍ فِى الْعَذَابِ مُشْتَرِكُوْنَ",
+    "Verse": "fa innahum yauma`iżin fil-'ażābi musytarikụn"
+  },
+  {
+    "No": 34,
+    "ArabicVerse": "اِنَّا كَذٰلِكَ نَفْعَلُ بِالْمُجْرِمِيْنَ",
+    "Verse": "innā każālika naf'alu bil-mujrimīn"
+  },
+  {
+    "No": 35,
+    "ArabicVerse": "اِنَّهُمْ كَانُوْٓا اِذَا قِيْلَ لَهُمْ لَآ اِلٰهَ اِلَّا اللّٰهُ يَسْتَكْبِرُوْنَ ۙ",
+    "Verse": "innahum kānū iżā qīla lahum lā ilāha illallāhu yastakbirụn"
+  },
+  {
+    "No": 36,
+    "ArabicVerse": "وَيَقُوْلُوْنَ اَىِٕنَّا لَتَارِكُوْٓا اٰلِهَتِنَا لِشَاعِرٍ مَّجْنُوْنٍ ۗ",
+    "Verse": "wa yaqụlụna a innā latārikū ālihatinā lisyā'irim majnụn"
+  },
+  {
+    "No": 37,
+    "ArabicVerse": "بَلْ جَاۤءَ بِالْحَقِّ وَصَدَّقَ الْمُرْسَلِيْنَ",
+    "Verse": "bal jā`a bil-ḥaqqi wa ṣaddaqal-mursalīn"
+  },
+  {
+    "No": 38,
+    "ArabicVerse": "اِنَّكُمْ لَذَاۤىِٕقُوا الْعَذَابِ الْاَلِيْمِ ۚ",
+    "Verse": "innakum lażā`iqul-'ażābil-alīm"
+  },
+  {
+    "No": 39,
+    "ArabicVerse": "وَمَا تُجْزَوْنَ اِلَّا مَا كُنْتُمْ تَعْمَلُوْنَۙ",
+    "Verse": "wa mā tujzauna illā mā kuntum ta'malụn"
+  },
+  {
+    "No": 40,
+    "ArabicVerse": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَصِيْنَ",
+    "Verse": "illā 'ibādallāhil-mukhlaṣīn"
+  },
+  {
+    "No": 41,
+    "ArabicVerse": "اُولٰۤىِٕكَ لَهُمْ رِزْقٌ مَّعْلُوْمٌۙ",
+    "Verse": "ulā`ika lahum rizqum ma'lụm"
+  },
+  {
+    "No": 42,
+    "ArabicVerse": "فَوَاكِهُ ۚوَهُمْ مُّكْرَمُوْنَۙ",
+    "Verse": "fawākih, wa hum mukramụn"
+  },
+  {
+    "No": 43,
+    "ArabicVerse": "فِيْ جَنّٰتِ النَّعِيْمِۙ",
+    "Verse": "fī jannātin na'īm"
+  },
+  {
+    "No": 44,
+    "ArabicVerse": "عَلٰى سُرُرٍ مُّتَقٰبِلِيْنَ",
+    "Verse": "'alā sururim mutaqābilīn"
+  },
+  {
+    "No": 45,
+    "ArabicVerse": "يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِّنْ مَّعِيْنٍۢ ۙ",
+    "Verse": "yuṭāfu 'alaihim bika`sim mim ma'īn"
+  },
+  {
+    "No": 46,
+    "ArabicVerse": "بَيْضَاۤءَ لَذَّةٍ لِّلشّٰرِبِيْنَۚ",
+    "Verse": "baiḍā`a lażżatil lisy-syāribīn"
+  },
+  {
+    "No": 47,
+    "ArabicVerse": "لَا فِيْهَا غَوْلٌ وَّلَا هُمْ عَنْهَا يُنْزَفُوْنَ",
+    "Verse": "lā fīhā gauluw wa lā hum 'an-hā yunzafụn"
+  },
+  {
+    "No": 48,
+    "ArabicVerse": "وَعِنْدَهُمْ قٰصِرٰتُ الطَّرْفِ عِيْنٌ ۙ",
+    "Verse": "wa 'indahum qāṣirātuṭ-ṭarfi 'īn"
+  },
+  {
+    "No": 49,
+    "ArabicVerse": "كَاَنَّهُنَّ بَيْضٌ مَّكْنُوْنٌ",
+    "Verse": "ka`annahunna baiḍum maknụn"
+  },
+  {
+    "No": 50,
+    "ArabicVerse": "فَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَّتَسَاۤءَلُوْنَ",
+    "Verse": "fa aqbala ba'ḍuhum 'alā ba'ḍiy yatasā`alụn"
+  },
+  {
+    "No": 51,
+    "ArabicVerse": "قَالَ قَاۤىِٕلٌ مِّنْهُمْ اِنِّيْ كَانَ لِيْ قَرِيْنٌۙ",
+    "Verse": "qāla qā`ilum min-hum innī kāna lī qarīn"
+  },
+  {
+    "No": 52,
+    "ArabicVerse": "يَّقُوْلُ اَىِٕنَّكَ لَمِنَ الْمُصَدِّقِيْنَ",
+    "Verse": "yaqụlu a innaka laminal-muṣaddiqīn"
+  },
+  {
+    "No": 53,
+    "ArabicVerse": "ءَاِذَا مِتْنَا وَكُنَّا تُرَابًا وَّعِظَامًا ءَاِنَّا لَمَدِيْنُوْنَ",
+    "Verse": "a iżā mitnā wa kunnā turābaw wa 'iẓāman a innā lamadīnụn"
+  },
+  {
+    "No": 54,
+    "ArabicVerse": "قَالَ هَلْ اَنْتُمْ مُّطَّلِعُوْنَ",
+    "Verse": "qāla hal antum muṭṭali'ụn"
+  },
+  {
+    "No": 55,
+    "ArabicVerse": "فَاطَّلَعَ فَرَاٰهُ فِيْ سَوَاۤءِ الْجَحِيْمِ",
+    "Verse": "faṭṭala'a fa ra`āhu fī sawā`il-jaḥīm"
+  },
+  {
+    "No": 56,
+    "ArabicVerse": "قَالَ تَاللّٰهِ اِنْ كِدْتَّ لَتُرْدِيْنِ ۙ",
+    "Verse": "qāla tallāhi ing kitta laturdīn"
+  },
+  {
+    "No": 57,
+    "ArabicVerse": "وَلَوْلَا نِعْمَةُ رَبِّيْ لَكُنْتُ مِنَ الْمُحْضَرِيْنَ",
+    "Verse": "walau lā ni'matu rabbī lakuntu minal-muḥḍarīn"
+  },
+  {
+    "No": 58,
+    "ArabicVerse": "اَفَمَا نَحْنُ بِمَيِّتِيْنَۙ",
+    "Verse": "a fa mā naḥnu bimayyitīn"
+  },
+  {
+    "No": 59,
+    "ArabicVerse": "اِلَّا مَوْتَتَنَا الْاُوْلٰى وَمَا نَحْنُ بِمُعَذَّبِيْنَ",
+    "Verse": "illā mautatanal-ụlā wa mā naḥnu bimu'ażżabīn"
+  },
+  {
+    "No": 60,
+    "ArabicVerse": "اِنَّ هٰذَا لَهُوَ الْفَوْزُ الْعَظِيْمُ",
+    "Verse": "inna hāżā lahuwal-fauzul-'aẓīm"
+  },
+  {
+    "No": 61,
+    "ArabicVerse": "لِمِثْلِ هٰذَا فَلْيَعْمَلِ الْعٰمِلُوْنَ",
+    "Verse": "limiṡli hāżā falya'malil-'āmilụn"
+  },
+  {
+    "No": 62,
+    "ArabicVerse": "اَذٰلِكَ خَيْرٌ نُّزُلًا اَمْ شَجَرَةُ الزَّقُّوْمِ",
+    "Verse": "a żālika khairun nuzulan am syajaratuz-zaqqụm"
+  },
+  {
+    "No": 63,
+    "ArabicVerse": "اِنَّا جَعَلْنٰهَا فِتْنَةً لِّلظّٰلِمِيْنَ",
+    "Verse": "innā ja'alnāhā fitnatal liẓ-ẓālimīn"
+  },
+  {
+    "No": 64,
+    "ArabicVerse": "اِنَّهَا شَجَرَةٌ تَخْرُجُ فِيْٓ اَصْلِ الْجَحِيْمِۙ",
+    "Verse": "innahā syajaratun takhruju fī aṣlil-jaḥīm"
+  },
+  {
+    "No": 65,
+    "ArabicVerse": "طَلْعُهَا كَاَنَّهٗ رُءُوْسُ الشَّيٰطِيْنِ",
+    "Verse": "ṭal'uhā ka`annahụ ru`ụsusy-syayāṭīn"
+  },
+  {
+    "No": 66,
+    "ArabicVerse": "فَاِنَّهُمْ لَاٰكِلُوْنَ مِنْهَا فَمَالِـُٔوْنَ مِنْهَا الْبُطُوْنَۗ",
+    "Verse": "fa innahum la`ākilụna min-hā famāli`ụna min-hal buṭụn"
+  },
+  {
+    "No": 67,
+    "ArabicVerse": "ثُمَّ اِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِّنْ حَمِيْمٍۚ",
+    "Verse": "ṡumma inna lahum 'alaihā lasyaubam min ḥamīm"
+  },
+  {
+    "No": 68,
+    "ArabicVerse": "ثُمَّ اِنَّ مَرْجِعَهُمْ لَاِلَى الْجَحِيْمِ",
+    "Verse": "ṡumma inna marji'ahum la`ilal-jaḥīm"
+  },
+  {
+    "No": 69,
+    "ArabicVerse": "اِنَّهُمْ اَلْفَوْا اٰبَاۤءَهُمْ ضَاۤلِّيْنَۙ",
+    "Verse": "innahum alfau ābā`ahum ḍāllīn"
+  },
+  {
+    "No": 70,
+    "ArabicVerse": "فَهُمْ عَلٰٓى اٰثٰرِهِمْ يُهْرَعُوْنَ",
+    "Verse": "fa hum 'alā āṡārihim yuhra'ụn"
+  },
+  {
+    "No": 71,
+    "ArabicVerse": "وَلَقَدْ ضَلَّ قَبْلَهُمْ اَكْثَرُ الْاَوَّلِيْنَۙ",
+    "Verse": "wa laqad ḍalla qablahum akṡarul-awwalīn"
+  },
+  {
+    "No": 72,
+    "ArabicVerse": "وَلَقَدْ اَرْسَلْنَا فِيْهِمْ مُّنْذِرِيْنَ",
+    "Verse": "wa laqad arsalnā fīhim munżirīn"
+  },
+  {
+    "No": 73,
+    "ArabicVerse": "فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنْذَرِيْنَۙ",
+    "Verse": "fanẓur kaifa kāna 'āqibatul-munżarīn"
+  },
+  {
+    "No": 74,
+    "ArabicVerse": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَصِيْنَ",
+    "Verse": "illā 'ibādallāhil-mukhlaṣīn"
+  },
+  {
+    "No": 75,
+    "ArabicVerse": "وَلَقَدْ نَادٰىنَا نُوْحٌ فَلَنِعْمَ الْمُجِيْبُوْنَۖ",
+    "Verse": "wa laqad nādānā nụḥun fa lani'mal-mujībụn"
+  },
+  {
+    "No": 76,
+    "ArabicVerse": "وَنَجَّيْنٰهُ وَاَهْلَهٗ مِنَ الْكَرْبِ الْعَظِيْمِۖ",
+    "Verse": "wa najjaināhu wa ahlahụ minal-karbil-'aẓīm"
+  },
+  {
+    "No": 77,
+    "ArabicVerse": "وَجَعَلْنَا ذُرِّيَّتَهٗ هُمُ الْبٰقِيْنَ",
+    "Verse": "wa ja'alnā żurriyyatahụ humul-bāqīn"
+  },
+  {
+    "No": 78,
+    "ArabicVerse": "وَتَرَكْنَا عَلَيْهِ فِى الْاٰخِرِيْنَ ۖ",
+    "Verse": "wa taraknā 'alaihi fil-ākhirīn"
+  },
+  {
+    "No": 79,
+    "ArabicVerse": "سَلٰمٌ عَلٰى نُوْحٍ فِى الْعٰلَمِيْنَ",
+    "Verse": "salāmun 'alā nụḥin fil-'ālamīn"
+  },
+  {
+    "No": 80,
+    "ArabicVerse": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ",
+    "Verse": "innā każālika najzil-muḥsinīn"
+  },
+  {
+    "No": 81,
+    "ArabicVerse": "اِنَّهٗ مِنْ عِبَادِنَا الْمُؤْمِنِيْنَ",
+    "Verse": "innahụ min 'ibādinal-mu`minīn"
+  },
+  {
+    "No": 82,
+    "ArabicVerse": "ثُمَّ اَغْرَقْنَا الْاٰخَرِيْنَ",
+    "Verse": "ṡumma agraqnal-ākharīn"
+  },
+  {
+    "No": 83,
+    "ArabicVerse": "وَاِنَّ مِنْ شِيْعَتِهٖ لَاِبْرٰهِيْمَ ۘ",
+    "Verse": "wa inna min syī'atihī la`ibrāhīm"
+  },
+  {
+    "No": 84,
+    "ArabicVerse": "اِذْ جَاۤءَ رَبَّهٗ بِقَلْبٍ سَلِيْمٍۙ",
+    "Verse": "iż jā`a rabbahụ biqalbin salīm"
+  },
+  {
+    "No": 85,
+    "ArabicVerse": "اِذْ قَالَ لِاَبِيْهِ وَقَوْمِهٖ مَاذَا تَعْبُدُوْنَ ۚ",
+    "Verse": "iż qāla li`abīhi wa qaumihī māżā ta'budụn"
+  },
+  {
+    "No": 86,
+    "ArabicVerse": "اَىِٕفْكًا اٰلِهَةً دُوْنَ اللّٰهِ تُرِيْدُوْنَۗ",
+    "Verse": "a ifkan āliḥatan dụnallāhi turīdụn"
+  },
+  {
+    "No": 87,
+    "ArabicVerse": "فَمَا ظَنُّكُمْ بِرَبِّ الْعٰلَمِيْنَ",
+    "Verse": "fa mā ẓannukum birabbil-'ālamīn"
+  },
+  {
+    "No": 88,
+    "ArabicVerse": "فَنَظَرَ نَظْرَةً فِى النُّجُوْمِۙ",
+    "Verse": "fa naẓara naẓratan fin-nujụm"
+  },
+  {
+    "No": 89,
+    "ArabicVerse": "فَقَالَ اِنِّيْ سَقِيْمٌ",
+    "Verse": "fa qāla innī saqīm"
+  },
+  {
+    "No": 90,
+    "ArabicVerse": "فَتَوَلَّوْا عَنْهُ مُدْبِرِيْنَ",
+    "Verse": "fa tawallau 'an-hu mudbirīn"
+  },
+  {
+    "No": 91,
+    "ArabicVerse": "فَرَاغَ اِلٰٓى اٰلِهَتِهِمْ فَقَالَ اَلَا تَأْكُلُوْنَۚ",
+    "Verse": "fa rāga ilā ālihatihim fa qāla alā ta`kulụn"
+  },
+  {
+    "No": 92,
+    "ArabicVerse": "مَا لَكُمْ لَا تَنْطِقُوْنَ",
+    "Verse": "mā lakum lā tanṭiqụn"
+  },
+  {
+    "No": 93,
+    "ArabicVerse": "فَرَاغَ عَلَيْهِمْ ضَرْبًا ۢبِالْيَمِيْنِ",
+    "Verse": "fa rāga 'alaihim ḍarbam bil-yamīn"
+  },
+  {
+    "No": 94,
+    "ArabicVerse": "فَاَقْبَلُوْٓا اِلَيْهِ يَزِفُّوْنَ",
+    "Verse": "fa aqbalū ilaihi yaziffụn"
+  },
+  {
+    "No": 95,
+    "ArabicVerse": "قَالَ اَتَعْبُدُوْنَ مَا تَنْحِتُوْنَۙ",
+    "Verse": "qāla a ta'budụna mā tan-ḥitụn"
+  },
+  {
+    "No": 96,
+    "ArabicVerse": "وَاللّٰهُ خَلَقَكُمْ وَمَا تَعْمَلُوْنَ",
+    "Verse": "wallāhu khalaqakum wa mā ta'malụn"
+  },
+  {
+    "No": 97,
+    "ArabicVerse": "قَالُوا ابْنُوْا لَهٗ بُنْيَانًا فَاَلْقُوْهُ فِى الْجَحِيْمِ",
+    "Verse": "qālubnụ lahụ bun-yānan fa alqụhu fil-jaḥīm"
+  },
+  {
+    "No": 98,
+    "ArabicVerse": "فَاَرَادُوْا بِهٖ كَيْدًا فَجَعَلْنٰهُمُ الْاَسْفَلِيْنَ",
+    "Verse": "fa arādụ bihī kaidan fa ja'alnāhumul-asfalīn"
+  },
+  {
+    "No": 99,
+    "ArabicVerse": "وَقَالَ اِنِّيْ ذَاهِبٌ اِلٰى رَبِّيْ سَيَهْدِيْنِ",
+    "Verse": "wa qāla innī żāhibun ilā rabbī sayahdīn"
+  },
+  {
+    "No": 100,
+    "ArabicVerse": "رَبِّ هَبْ لِيْ مِنَ الصّٰلِحِيْنَ",
+    "Verse": "rabbi hab lī minaṣ-ṣāliḥīn"
+  },
+  {
+    "No": 101,
+    "ArabicVerse": "فَبَشَّرْنٰهُ بِغُلٰمٍ حَلِيْمٍ",
+    "Verse": "fa basysyarnāhu bigulāmin ḥalīm"
+  },
+  {
+    "No": 102,
+    "ArabicVerse": "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يٰبُنَيَّ اِنِّيْٓ اَرٰى فِى الْمَنَامِ اَنِّيْٓ اَذْبَحُكَ فَانْظُرْ مَاذَا تَرٰىۗ قَالَ يٰٓاَبَتِ افْعَلْ مَا تُؤْمَرُۖ سَتَجِدُنِيْٓ اِنْ شَاۤءَ اللّٰهُ مِنَ الصّٰبِرِيْنَ",
+    "Verse": "fa lammā balaga ma'ahus-sa'ya qāla yā bunayya innī arā fil-manāmi annī ażbaḥuka fanẓur māżā tarā, qāla yā abatif'al mā tu`maru satajidunī in syā`allāhu minaṣ-ṣābirīn"
+  },
+  {
+    "No": 103,
+    "ArabicVerse": "فَلَمَّآ اَسْلَمَا وَتَلَّهٗ لِلْجَبِيْنِۚ",
+    "Verse": "fa lammā aslamā wa tallahụ lil-jabīn"
+  },
+  {
+    "No": 104,
+    "ArabicVerse": "وَنَادَيْنٰهُ اَنْ يّٰٓاِبْرٰهِيْمُ ۙ",
+    "Verse": "wa nādaināhu ay yā ibrāhīm"
+  },
+  {
+    "No": 105,
+    "ArabicVerse": "قَدْ صَدَّقْتَ الرُّؤْيَا ۚاِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ",
+    "Verse": "qad ṣaddaqtar-ru`yā, innā każālika najzil-muḥsinīn"
+  },
+  {
+    "No": 106,
+    "ArabicVerse": "اِنَّ هٰذَا لَهُوَ الْبَلٰۤؤُا الْمُبِيْنُ",
+    "Verse": "inna hāżā lahuwal-balā`ul mubīn"
+  },
+  {
+    "No": 107,
+    "ArabicVerse": "وَفَدَيْنٰهُ بِذِبْحٍ عَظِيْمٍ",
+    "Verse": "wa fadaināhu biżib-ḥin 'aẓīm"
+  },
+  {
+    "No": 108,
+    "ArabicVerse": "وَتَرَكْنَا عَلَيْهِ فِى الْاٰخِرِيْنَ ۖ",
+    "Verse": "wa taraknā 'alaihi fil-ākhirīn"
+  },
+  {
+    "No": 109,
+    "ArabicVerse": "سَلٰمٌ عَلٰٓى اِبْرٰهِيْمَ",
+    "Verse": "salāmun 'alā ibrāhīm"
+  },
+  {
+    "No": 110,
+    "ArabicVerse": "كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ",
+    "Verse": "każālika najzil-muḥsinīn"
+  },
+  {
+    "No": 111,
+    "ArabicVerse": "اِنَّهٗ مِنْ عِبَادِنَا الْمُؤْمِنِيْنَ",
+    "Verse": "innahụ min 'ibādinal-mu`minīn"
+  },
+  {
+    "No": 112,
+    "ArabicVerse": "وَبَشَّرْنٰهُ بِاِسْحٰقَ نَبِيًّا مِّنَ الصّٰلِحِيْنَ",
+    "Verse": "wa basysyarnāhu bi`is-ḥāqa nabiyyam minaṣ-ṣāliḥīn"
+  },
+  {
+    "No": 113,
+    "ArabicVerse": "وَبٰرَكْنَا عَلَيْهِ وَعَلٰٓى اِسْحٰقَۗ وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَّظَالِمٌ لِّنَفْسِهٖ مُبِيْنٌ",
+    "Verse": "wa bāraknā 'alaihi wa 'alā is-ḥāq, wa min żurriyyatihimā muḥsinuw wa ẓālimul linafsihī mubīn"
+  },
+  {
+    "No": 114,
+    "ArabicVerse": "وَلَقَدْ مَنَنَّا عَلٰى مُوْسٰى وَهٰرُوْنَ ۚ",
+    "Verse": "wa laqad manannā 'alā mụsā wa hārụn"
+  },
+  {
+    "No": 115,
+    "ArabicVerse": "وَنَجَّيْنٰهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظِيْمِۚ",
+    "Verse": "wa najjaināhumā wa qaumahumā minal-karbil-'aẓīm"
+  },
+  {
+    "No": 116,
+    "ArabicVerse": "وَنَصَرْنٰهُمْ فَكَانُوْا هُمُ الْغٰلِبِيْنَۚ",
+    "Verse": "wa naṣarnāhum fa kānụ humul-gālibīn"
+  },
+  {
+    "No": 117,
+    "ArabicVerse": "وَاٰتَيْنٰهُمَا الْكِتٰبَ الْمُسْتَبِيْنَ ۚ",
+    "Verse": "wa ātaināhumal-kitābal-mustabīn"
+  },
+  {
+    "No": 118,
+    "ArabicVerse": "وَهَدَيْنٰهُمَا الصِّرَاطَ الْمُسْتَقِيْمَۚ",
+    "Verse": "wa hadaināhumaṣ-ṣirāṭal-mustaqīm"
+  },
+  {
+    "No": 119,
+    "ArabicVerse": "وَتَرَكْنَا عَلَيْهِمَا فِى الْاٰخِرِيْنَ ۖ",
+    "Verse": "wa taraknā 'alaihimā fil-ākhirīn"
+  },
+  {
+    "No": 120,
+    "ArabicVerse": "سَلٰمٌ عَلٰى مُوْسٰى وَهٰرُوْنَ",
+    "Verse": "salāmun 'alā mụsā wa hārụn"
+  },
+  {
+    "No": 121,
+    "ArabicVerse": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ",
+    "Verse": "innā każālika najzil-muḥsinīn"
+  },
+  {
+    "No": 122,
+    "ArabicVerse": "اِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِنِيْنَ",
+    "Verse": "innahumā min 'ibādinal-mu`minīn"
+  },
+  {
+    "No": 123,
+    "ArabicVerse": "وَاِنَّ اِلْيَاسَ لَمِنَ الْمُرْسَلِيْنَۗ",
+    "Verse": "wa inna ilyāsa laminal-mursalīn"
+  },
+  {
+    "No": 124,
+    "ArabicVerse": "اِذْ قَالَ لِقَوْمِهٖٓ اَلَا تَتَّقُوْنَ",
+    "Verse": "iż qāla liqaumihī alā tattaqụn"
+  },
+  {
+    "No": 125,
+    "ArabicVerse": "اَتَدْعُوْنَ بَعْلًا وَّتَذَرُوْنَ اَحْسَنَ الْخَالِقِيْنَۙ",
+    "Verse": "a tad'ụna ba'law wa tażarụna aḥsanal-khāliqīn"
+  },
+  {
+    "No": 126,
+    "ArabicVerse": "اللّٰهَ رَبَّكُمْ وَرَبَّ اٰبَاۤىِٕكُمُ الْاَوَّلِيْنَ",
+    "Verse": "allāha rabbakum wa rabba ābā`ikumul-awwalīn"
+  },
+  {
+    "No": 127,
+    "ArabicVerse": "فَكَذَّبُوْهُ فَاِنَّهُمْ لَمُحْضَرُوْنَۙ",
+    "Verse": "fa każżabụhu fa innahum lamuḥḍarụn"
+  },
+  {
+    "No": 128,
+    "ArabicVerse": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَصِيْنَ",
+    "Verse": "illā 'ibādallāhil-mukhlaṣīn"
+  },
+  {
+    "No": 129,
+    "ArabicVerse": "وَتَرَكْنَا عَلَيْهِ فِى الْاٰخِرِيْنَ ۙ",
+    "Verse": "wa taraknā 'alaihi fil-ākhirīn"
+  },
+  {
+    "No": 130,
+    "ArabicVerse": "سَلٰمٌ عَلٰٓى اِلْ يَاسِيْنَ",
+    "Verse": "salāmun 'alā ilyāsīn"
+  },
+  {
+    "No": 131,
+    "ArabicVerse": "اِنَّا كَذٰلِكَ نَجْزِى الْمُحْسِنِيْنَ",
+    "Verse": "innā każālika najzil-muḥsinīn"
+  },
+  {
+    "No": 132,
+    "ArabicVerse": "اِنَّهٗ مِنْ عِبَادِنَا الْمُؤْمِنِيْنَ",
+    "Verse": "innahụ min 'ibādinal-mu`minīn"
+  },
+  {
+    "No": 133,
+    "ArabicVerse": "وَاِنَّ لُوْطًا لَّمِنَ الْمُرْسَلِيْنَۗ",
+    "Verse": "wa inna lụṭal laminal-mursalīn"
+  },
+  {
+    "No": 134,
+    "ArabicVerse": "اِذْ نَجَّيْنٰهُ وَاَهْلَهٗٓ اَجْمَعِيْۙنَ",
+    "Verse": "iż najjaināhu wa ahlahū ajma'īn"
+  },
+  {
+    "No": 135,
+    "ArabicVerse": "اِلَّا عَجُوْزًا فِى الْغٰبِرِيْنَ",
+    "Verse": "illā 'ajụzan fil-gābirīn"
+  },
+  {
+    "No": 136,
+    "ArabicVerse": "ثُمَّ دَمَّرْنَا الْاٰخَرِيْنَ",
+    "Verse": "ṡumma dammarnal-ākharīn"
+  },
+  {
+    "No": 137,
+    "ArabicVerse": "وَاِنَّكُمْ لَتَمُرُّوْنَ عَلَيْهِمْ مُّصْبِحِيْنَۙ",
+    "Verse": "wa innakum latamurrụna 'alaihim muṣbiḥīn"
+  },
+  {
+    "No": 138,
+    "ArabicVerse": "وَبِالَّيْلِۗ اَفَلَا تَعْقِلُوْنَ",
+    "Verse": "wa bil-laīl, a fa lā ta'qilụn"
+  },
+  {
+    "No": 139,
+    "ArabicVerse": "وَاِنَّ يُوْنُسَ لَمِنَ الْمُرْسَلِيْنَۗ",
+    "Verse": "wa inna yụnusa laminal-mursalīn"
+  },
+  {
+    "No": 140,
+    "ArabicVerse": "اِذْ اَبَقَ اِلَى الْفُلْكِ الْمَشْحُوْنِۙ",
+    "Verse": "iż abaqa ilal-fulkil-masy-ḥụn"
+  },
+  {
+    "No": 141,
+    "ArabicVerse": "فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِيْنَۚ",
+    "Verse": "fa sāhama fa kāna minal-mud-ḥaḍīn"
+  },
+  {
+    "No": 142,
+    "ArabicVerse": "فَالْتَقَمَهُ الْحُوْتُ وَهُوَ مُلِيْمٌ",
+    "Verse": "faltaqamahul-ḥụtu wa huwa mulīm"
+  },
+  {
+    "No": 143,
+    "ArabicVerse": "فَلَوْلَآ اَنَّهٗ كَانَ مِنَ الْمُسَبِّحِيْنَ ۙ",
+    "Verse": "falau lā annahụ kāna minal-musabbiḥīn"
+  },
+  {
+    "No": 144,
+    "ArabicVerse": "لَلَبِثَ فِيْ بَطْنِهٖٓ اِلٰى يَوْمِ يُبْعَثُوْنَۚ",
+    "Verse": "lalabiṡa fī baṭnihī ilā yaumi yub'aṡụn"
+  },
+  {
+    "No": 145,
+    "ArabicVerse": "فَنَبَذْنٰهُ بِالْعَرَاۤءِ وَهُوَ سَقِيْمٌ ۚ",
+    "Verse": "fa nabażnāhu bil-'arā`i wa huwa saqīm"
+  },
+  {
+    "No": 146,
+    "ArabicVerse": "وَاَنْۢبَتْنَا عَلَيْهِ شَجَرَةً مِّنْ يَّقْطِيْنٍۚ",
+    "Verse": "wa ambatnā 'alaihi syajaratam miy yaqṭīn"
+  },
+  {
+    "No": 147,
+    "ArabicVerse": "وَاَرْسَلْنٰهُ اِلٰى مِائَةِ اَلْفٍ اَوْ يَزِيْدُوْنَۚ",
+    "Verse": "wa arsalnāhu ilā mi`ati alfin au yazīdụn"
+  },
+  {
+    "No": 148,
+    "ArabicVerse": "فَاٰمَنُوْا فَمَتَّعْنٰهُمْ اِلٰى حِيْنٍ",
+    "Verse": "fa āmanụ fa matta'nāhum ilā ḥīn"
+  },
+  {
+    "No": 149,
+    "ArabicVerse": "فَاسْتَفْتِهِمْ اَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُوْنَۚ",
+    "Verse": "fastaftihim a lirabbikal-banātu wa lahumul-banụn"
+  },
+  {
+    "No": 150,
+    "ArabicVerse": "اَمْ خَلَقْنَا الْمَلٰۤىِٕكَةَ اِنَاثًا وَّهُمْ شَاهِدُوْنَ",
+    "Verse": "am khalaqnal-malā`ikata ināṡaw wa hum syāhidụn"
+  },
+  {
+    "No": 151,
+    "ArabicVerse": "اَلَآ اِنَّهُمْ مِّنْ اِفْكِهِمْ لَيَقُوْلُوْنَۙ",
+    "Verse": "alā innahum min ifkihim layaqụlụn"
+  },
+  {
+    "No": 152,
+    "ArabicVerse": "وَلَدَ اللّٰهُ ۙوَاِنَّهُمْ لَكٰذِبُوْنَۙ",
+    "Verse": "waladallāhu wa innahum lakāżibụn"
+  },
+  {
+    "No": 153,
+    "ArabicVerse": "اَصْطَفَى الْبَنَاتِ عَلَى الْبَنِيْنَۗ",
+    "Verse": "aṣṭafal-banāti 'alal-banīn"
+  },
+  {
+    "No": 154,
+    "ArabicVerse": "مَا لَكُمْۗ كَيْفَ تَحْكُمُوْنَ",
+    "Verse": "mā lakum, kaifa taḥkumụn"
+  },
+  {
+    "No": 155,
+    "ArabicVerse": "اَفَلَا تَذَكَّرُوْنَۚ",
+    "Verse": "a fa lā tażakkarụn"
+  },
+  {
+    "No": 156,
+    "ArabicVerse": "اَمْ لَكُمْ سُلْطٰنٌ مُّبِيْنٌۙ",
+    "Verse": "am lakum sulṭānum mubīn"
+  },
+  {
+    "No": 157,
+    "ArabicVerse": "فَأْتُوْا بِكِتٰبِكُمْ اِنْ كُنْتُمْ صٰدِقِيْنَ",
+    "Verse": "fa`tụ bikitābikum ing kuntum ṣādiqīn"
+  },
+  {
+    "No": 158,
+    "ArabicVerse": "وَجَعَلُوْا بَيْنَهٗ وَبَيْنَ الْجِنَّةِ نَسَبًا ۗوَلَقَدْ عَلِمَتِ الْجِنَّةُ اِنَّهُمْ لَمُحْضَرُوْنَۙ",
+    "Verse": "wa ja'alụ bainahụ wa bainal-jinnati nasabā, wa laqad 'alimatil-jinnatu innahum lamuḥḍarụn"
+  },
+  {
+    "No": 159,
+    "ArabicVerse": "سُبْحٰنَ اللّٰهِ عَمَّا يَصِفُوْنَۙ",
+    "Verse": "sub-ḥanallāhi 'ammā yaṣifụn"
+  },
+  {
+    "No": 160,
+    "ArabicVerse": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَصِيْنَ",
+    "Verse": "illā 'ibādallāhil-mukhlaṣīn"
+  },
+  {
+    "No": 161,
+    "ArabicVerse": "فَاِنَّكُمْ وَمَا تَعْبُدُوْنَۙ",
+    "Verse": "fa innakum wa mā ta'budụn"
+  },
+  {
+    "No": 162,
+    "ArabicVerse": "مَآ اَنْتُمْ عَلَيْهِ بِفَاتِنِيْنَۙ",
+    "Verse": "mā antum 'alaihi bifātinīn"
+  },
+  {
+    "No": 163,
+    "ArabicVerse": "اِلَّا مَنْ هُوَ صَالِ الْجَحِيْمِ",
+    "Verse": "illā man huwa ṣālil-jaḥīm"
+  },
+  {
+    "No": 164,
+    "ArabicVerse": "وَمَا مِنَّآ اِلَّا لَهٗ مَقَامٌ مَّعْلُوْمٌۙ",
+    "Verse": "wa mā minnā illā lahụ maqāmum ma'lụm"
+  },
+  {
+    "No": 165,
+    "ArabicVerse": "وَاِنَّا لَنَحْنُ الصَّۤافُّوْنَۖ",
+    "Verse": "wa innā lanaḥnuṣ-ṣāffụn"
+  },
+  {
+    "No": 166,
+    "ArabicVerse": "وَاِنَّا لَنَحْنُ الْمُسَبِّحُوْنَ",
+    "Verse": "wa innā lanaḥnul-musabbiḥụn"
+  },
+  {
+    "No": 167,
+    "ArabicVerse": "وَاِنْ كَانُوْا لَيَقُوْلُوْنَۙ",
+    "Verse": "wa ing kānụ layaqụlụn"
+  },
+  {
+    "No": 168,
+    "ArabicVerse": "لَوْ اَنَّ عِنْدَنَا ذِكْرًا مِّنَ الْاَوَّلِيْنَۙ",
+    "Verse": "lau anna 'indanā żikram minal-awwalīn"
+  },
+  {
+    "No": 169,
+    "ArabicVerse": "لَكُنَّا عِبَادَ اللّٰهِ الْمُخْلَصِيْنَ",
+    "Verse": "lakunnā 'ibādallāhil-mukhlaṣīn"
+  },
+  {
+    "No": 170,
+    "ArabicVerse": "فَكَفَرُوْا بِهٖۚ فَسَوْفَ يَعْلَمُوْنَ",
+    "Verse": "fa kafarụ bih, fa saufa ya'lamụn"
+  },
+  {
+    "No": 171,
+    "ArabicVerse": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَلِيْنَ ۖ",
+    "Verse": "wa laqad sabaqat kalimatunā li'ibādinal-mursalīn"
+  },
+  {
+    "No": 172,
+    "ArabicVerse": "اِنَّهُمْ لَهُمُ الْمَنْصُوْرُوْنَۖ",
+    "Verse": "innahum lahumul-manṣụrụn"
+  },
+  {
+    "No": 173,
+    "ArabicVerse": "وَاِنَّ جُنْدَنَا لَهُمُ الْغٰلِبُوْنَ",
+    "Verse": "wa inna jundanā lahumul-gālibụn"
+  },
+  {
+    "No": 174,
+    "ArabicVerse": "فَتَوَلَّ عَنْهُمْ حَتّٰى حِيْنٍۙ",
+    "Verse": "fa tawalla 'an-hum ḥattā ḥīn"
+  },
+  {
+    "No": 175,
+    "ArabicVerse": "وَّاَبْصِرْهُمْۗ فَسَوْفَ يُبْصِرُوْنَ",
+    "Verse": "wa abṣir-hum, fa saufa yubṣirụn"
+  },
+  {
+    "No": 176,
+    "ArabicVerse": "اَفَبِعَذَابِنَا يَسْتَعْجِلُوْنَ",
+    "Verse": "a fa bi'ażābinā yasta'jilụn"
+  },
+  {
+    "No": 177,
+    "ArabicVerse": "فَاِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاۤءَ صَبَاحُ الْمُنْذَرِيْنَ",
+    "Verse": "fa iżā nazala bisāḥatihim fa sā`a ṣabāḥul-munżarīn"
+  },
+  {
+    "No": 178,
+    "ArabicVerse": "وَتَوَلَّ عَنْهُمْ حَتّٰى حِيْنٍۙ",
+    "Verse": "wa tawalla 'an-hum ḥattā ḥīn"
+  },
+  {
+    "No": 179,
+    "ArabicVerse": "وَّاَبْصِرْۗ فَسَوْفَ يُبْصِرُوْنَ",
+    "Verse": "wa abṣir, fa saufa yubṣirụn"
+  },
+  {
+    "No": 180,
+    "ArabicVerse": "سُبْحٰنَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَۚ",
+    "Verse": "sub-ḥāna rabbika rabbil-'izzati 'ammā yaṣifụn"
+  },
+  {
+    "No": 181,
+    "ArabicVerse": "وَسَلٰمٌ عَلَى الْمُرْسَلِيْنَۚ",
+    "Verse": "wa salāmun 'alal-mursalīn"
+  },
+  {
+    "No": 182,
+    "ArabicVerse": "وَالْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَ",
+    "Verse": "wal-ḥamdu lillāhi rabbil-'ālamīn"
+  }
+]

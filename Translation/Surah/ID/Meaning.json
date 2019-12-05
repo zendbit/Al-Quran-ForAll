@@ -1,0 +1,458 @@
+[
+    {
+        "No": 1,
+        "Translation": "Pembukaan"
+    },
+    {
+        "No": 2,
+        "Translation": "Sapi Betina"
+    },
+    {
+        "No": 3,
+        "Translation": "Keluarga 'Imran"
+    },
+    {
+        "No": 4,
+        "Translation": "Wanita"
+    },
+    {
+        "No": 5,
+        "Translation": "Jamuan (hidangan makanan)"
+    },
+    {
+        "No": 6,
+        "Translation": "Hewan Ternak"
+    },
+    {
+        "No": 7,
+        "Translation": "Tempat yang tertinggi"
+    },
+    {
+        "No": 8,
+        "Translation": "Harta rampasan perang"
+    },
+    {
+        "No": 9,
+        "Translation": "Pengampunan"
+    },
+    {
+        "No": 10,
+        "Translation": "Nabi Yunus"
+    },
+    {
+        "No": 11,
+        "Translation": "Nabi Hud"
+    },
+    {
+        "No": 12,
+        "Translation": "Nabi Yusuf"
+    },
+    {
+        "No": 13,
+        "Translation": "Guruh (petir)"
+    },
+    {
+        "No": 14,
+        "Translation": "Nabi Ibrahim"
+    },
+    {
+        "No": 15,
+        "Translation": "Gunung Al Hijr"
+    },
+    {
+        "No": 16,
+        "Translation": "Lebah"
+    },
+    {
+        "No": 17,
+        "Translation": "Perjalanan Malam"
+    },
+    {
+        "No": 18,
+        "Translation": "Penghuni-penghuni Gua"
+    },
+    {
+        "No": 19,
+        "Translation": "Maryam (Maria)"
+    },
+    {
+        "No": 20,
+        "Translation": "Ta Ha"
+    },
+    {
+        "No": 21,
+        "Translation": "Nabi-Nabi"
+    },
+    {
+        "No": 22,
+        "Translation": "Haji"
+    },
+    {
+        "No": 23,
+        "Translation": "Orang-orang mukmin"
+    },
+    {
+        "No": 24,
+        "Translation": "Cahaya"
+    },
+    {
+        "No": 25,
+        "Translation": "Pembeda"
+    },
+    {
+        "No": 26,
+        "Translation": "Penyair"
+    },
+    {
+        "No": 27,
+        "Translation": "Semut"
+    },
+    {
+        "No": 28,
+        "Translation": "Kisah"
+    },
+    {
+        "No": 29,
+        "Translation": "Laba-laba"
+    },
+    {
+        "No": 30,
+        "Translation": "Bangsa Romawi"
+    },
+    {
+        "No": 31,
+        "Translation": "Keluarga Luqman"
+    },
+    {
+        "No": 32,
+        "Translation": "Sajdah"
+    },
+    {
+        "No": 33,
+        "Translation": "Golongan-Golongan yang bersekutu"
+    },
+    {
+        "No": 34,
+        "Translation": "Kaum Saba'"
+    },
+    {
+        "No": 35,
+        "Translation": "Pencipta"
+    },
+    {
+        "No": 36,
+        "Translation": "Yaasiin"
+    },
+    {
+        "No": 37,
+        "Translation": "Barisan-barisan"
+    },
+    {
+        "No": 38,
+        "Translation": "Shaad"
+    },
+    {
+        "No": 39,
+        "Translation": "Rombongan-rombongan"
+    },
+    {
+        "No": 40,
+        "Translation": "Yang mengampuni"
+    },
+    {
+        "No": 41,
+        "Translation": "Yang dijelaskan"
+    },
+    {
+        "No": 42,
+        "Translation": "Musyawarah"
+    },
+    {
+        "No": 43,
+        "Translation": "Perhiasan"
+    },
+    {
+        "No": 44,
+        "Translation": "Kabut"
+    },
+    {
+        "No": 45,
+        "Translation": "Yang bertekuk lutut"
+    },
+    {
+        "No": 46,
+        "Translation": "Bukit-bukit pasir"
+    },
+    {
+        "No": 47,
+        "Translation": "Nabi Muhammad"
+    },
+    {
+        "No": 48,
+        "Translation": "Kemenangan"
+    },
+    {
+        "No": 49,
+        "Translation": "Kamar-kamar"
+    },
+    {
+        "No": 50,
+        "Translation": "Qaaf"
+    },
+    {
+        "No": 51,
+        "Translation": "Angin yang menerbangkan"
+    },
+    {
+        "No": 52,
+        "Translation": "Bukit"
+    },
+    {
+        "No": 53,
+        "Translation": "Bintang"
+    },
+    {
+        "No": 54,
+        "Translation": "Bulan"
+    },
+    {
+        "No": 55,
+        "Translation": "Yang Maha Pemurah"
+    },
+    {
+        "No": 56,
+        "Translation": "Hari Kiamat"
+    },
+    {
+        "No": 57,
+        "Translation": "Besi"
+    },
+    {
+        "No": 58,
+        "Translation": "Wanita yang mengajukan gugatan"
+    },
+    {
+        "No": 59,
+        "Translation": "Pengusiran"
+    },
+    {
+        "No": 60,
+        "Translation": "Wanita yang diuji"
+    },
+    {
+        "No": 61,
+        "Translation": "Satu barisan"
+    },
+    {
+        "No": 62,
+        "Translation": "Hari Jum’at"
+    },
+    {
+        "No": 63,
+        "Translation": "Orang-orang yang munafik"
+    },
+    {
+        "No": 64,
+        "Translation": "Hari dinampakkan kesalahan-kesalahan"
+    },
+    {
+        "No": 65,
+        "Translation": "Talak"
+    },
+    {
+        "No": 66,
+        "Translation": "Mengharamkan"
+    },
+    {
+        "No": 67,
+        "Translation": "Kerajaan"
+    },
+    {
+        "No": 68,
+        "Translation": "Pena"
+    },
+    {
+        "No": 69,
+        "Translation": "Hari kiamat"
+    },
+    {
+        "No": 70,
+        "Translation": "Tempat naik"
+    },
+    {
+        "No": 71,
+        "Translation": "Nabi Nuh"
+    },
+    {
+        "No": 72,
+        "Translation": "Jin"
+    },
+    {
+        "No": 73,
+        "Translation": "Orang yang berselimut"
+    },
+    {
+        "No": 74,
+        "Translation": "Orang yang berkemul"
+    },
+    {
+        "No": 75,
+        "Translation": "Kiamat"
+    },
+    {
+        "No": 76,
+        "Translation": "Manusia"
+    },
+    {
+        "No": 77,
+        "Translation": "Malaikat-Malaikat Yang Diutus"
+    },
+    {
+        "No": 78,
+        "Translation": "Berita besar"
+    },
+    {
+        "No": 79,
+        "Translation": "Malaikat-Malaikat Yang Mencabut"
+    },
+    {
+        "No": 80,
+        "Translation": "Ia Bermuka masam"
+    },
+    {
+        "No": 81,
+        "Translation": "Menggulung"
+    },
+    {
+        "No": 82,
+        "Translation": "Terbelah"
+    },
+    {
+        "No": 83,
+        "Translation": "Orang-orang yang curang"
+    },
+    {
+        "No": 84,
+        "Translation": "Terbelah"
+    },
+    {
+        "No": 85,
+        "Translation": "Gugusan bintang"
+    },
+    {
+        "No": 86,
+        "Translation": "Yang datang di malam hari"
+    },
+    {
+        "No": 87,
+        "Translation": "Yang paling tinggi"
+    },
+    {
+        "No": 88,
+        "Translation": "Hari Pembalasan"
+    },
+    {
+        "No": 89,
+        "Translation": "Fajar"
+    },
+    {
+        "No": 90,
+        "Translation": "Negeri"
+    },
+    {
+        "No": 91,
+        "Translation": "Matahari"
+    },
+    {
+        "No": 92,
+        "Translation": "Malam"
+    },
+    {
+        "No": 93,
+        "Translation": "Waktu matahari sepenggalahan naik (Dhuha)"
+    },
+    {
+        "No": 94,
+        "Translation": "Melapangkan"
+    },
+    {
+        "No": 95,
+        "Translation": "Buah Tin"
+    },
+    {
+        "No": 96,
+        "Translation": "Segumpal Darah"
+    },
+    {
+        "No": 97,
+        "Translation": "Kemuliaan"
+    },
+    {
+        "No": 98,
+        "Translation": "Pembuktian"
+    },
+    {
+        "No": 99,
+        "Translation": "Kegoncangan"
+    },
+    {
+        "No": 100,
+        "Translation": "Berlari kencang"
+    },
+    {
+        "No": 101,
+        "Translation": "Hari Kiamat"
+    },
+    {
+        "No": 102,
+        "Translation": "Bermegah-megahan"
+    },
+    {
+        "No": 103,
+        "Translation": "Masa/Waktu"
+    },
+    {
+        "No": 104,
+        "Translation": "Pengumpat"
+    },
+    {
+        "No": 105,
+        "Translation": "Gajah"
+    },
+    {
+        "No": 106,
+        "Translation": "Suku Quraisy"
+    },
+    {
+        "No": 107,
+        "Translation": "Barang-barang yang berguna"
+    },
+    {
+        "No": 108,
+        "Translation": "Nikmat yang berlimpah"
+    },
+    {
+        "No": 109,
+        "Translation": "Orang-orang kafir"
+    },
+    {
+        "No": 110,
+        "Translation": "Pertolongan"
+    },
+    {
+        "No": 111,
+        "Translation": "Gejolak Api/ Sabut"
+    },
+    {
+        "No": 112,
+        "Translation": "Ikhlas"
+    },
+    {
+        "No": 113,
+        "Translation": "Waktu Subuh"
+    },
+    {
+        "No": 114,
+        "Translation": "Umat Manusia"
+    }
+]
