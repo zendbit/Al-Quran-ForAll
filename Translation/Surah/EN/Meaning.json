@@ -1,0 +1,458 @@
+[
+  {
+    "No": 1,
+    "Translation": "The Opening"
+  },
+  {
+    "No": 2,
+    "Translation": "The Heifer"
+  },
+  {
+    "No": 3,
+    "Translation": "Family of Imran"
+  },
+  {
+    "No": 4,
+    "Translation": "Women"
+  },
+  {
+    "No": 5,
+    "Translation": "The Table"
+  },
+  {
+    "No": 6,
+    "Translation": "Livestock"
+  },
+  {
+    "No": 7,
+    "Translation": "The Elevations"
+  },
+  {
+    "No": 8,
+    "Translation": "The Spoils"
+  },
+  {
+    "No": 9,
+    "Translation": "Repentance"
+  },
+  {
+    "No": 10,
+    "Translation": "Jonah"
+  },
+  {
+    "No": 11,
+    "Translation": "Hud"
+  },
+  {
+    "No": 12,
+    "Translation": "Joseph"
+  },
+  {
+    "No": 13,
+    "Translation": "Thunder"
+  },
+  {
+    "No": 14,
+    "Translation": "Abraham"
+  },
+  {
+    "No": 15,
+    "Translation": "The Rock"
+  },
+  {
+    "No": 16,
+    "Translation": "The Bee"
+  },
+  {
+    "No": 17,
+    "Translation": "Children of Israel"
+  },
+  {
+    "No": 18,
+    "Translation": "The Cave"
+  },
+  {
+    "No": 19,
+    "Translation": "Mary"
+  },
+  {
+    "No": 20,
+    "Translation": "Ta-Ha"
+  },
+  {
+    "No": 21,
+    "Translation": "The Prophets"
+  },
+  {
+    "No": 22,
+    "Translation": "The Pilgrimage"
+  },
+  {
+    "No": 23,
+    "Translation": "The Believers"
+  },
+  {
+    "No": 24,
+    "Translation": "The Light"
+  },
+  {
+    "No": 25,
+    "Translation": "The Criterion"
+  },
+  {
+    "No": 26,
+    "Translation": "The Poets"
+  },
+  {
+    "No": 27,
+    "Translation": "The Ant"
+  },
+  {
+    "No": 28,
+    "Translation": "History"
+  },
+  {
+    "No": 29,
+    "Translation": "The Spider"
+  },
+  {
+    "No": 30,
+    "Translation": "The Romans"
+  },
+  {
+    "No": 31,
+    "Translation": "Luqman"
+  },
+  {
+    "No": 32,
+    "Translation": "Prostration"
+  },
+  {
+    "No": 33,
+    "Translation": "The Confederates"
+  },
+  {
+    "No": 34,
+    "Translation": "Sheba"
+  },
+  {
+    "No": 35,
+    "Translation": "Originator"
+  },
+  {
+    "No": 36,
+    "Translation": "Ya-Seen"
+  },
+  {
+    "No": 37,
+    "Translation": "The Aligners"
+  },
+  {
+    "No": 38,
+    "Translation": "Saad"
+  },
+  {
+    "No": 39,
+    "Translation": "The Crowds"
+  },
+  {
+    "No": 40,
+    "Translation": "Forgiver"
+  },
+  {
+    "No": 41,
+    "Translation": "Detailed"
+  },
+  {
+    "No": 42,
+    "Translation": "Consultation"
+  },
+  {
+    "No": 43,
+    "Translation": "Decorations"
+  },
+  {
+    "No": 44,
+    "Translation": "Smoke"
+  },
+  {
+    "No": 45,
+    "Translation": "Kneeling"
+  },
+  {
+    "No": 46,
+    "Translation": "The Dunes"
+  },
+  {
+    "No": 47,
+    "Translation": "Muhammad"
+  },
+  {
+    "No": 48,
+    "Translation": "Victory"
+  },
+  {
+    "No": 49,
+    "Translation": "The Chambers"
+  },
+  {
+    "No": 50,
+    "Translation": "Qaf"
+  },
+  {
+    "No": 51,
+    "Translation": "The Spreaders"
+  },
+  {
+    "No": 52,
+    "Translation": "The Mount"
+  },
+  {
+    "No": 53,
+    "Translation": "The Star"
+  },
+  {
+    "No": 54,
+    "Translation": "The Moon"
+  },
+  {
+    "No": 55,
+    "Translation": "The Compassionate"
+  },
+  {
+    "No": 56,
+    "Translation": "The Inevitable"
+  },
+  {
+    "No": 57,
+    "Translation": "Iron"
+  },
+  {
+    "No": 58,
+    "Translation": "The Argument"
+  },
+  {
+    "No": 59,
+    "Translation": "The Mobilization"
+  },
+  {
+    "No": 60,
+    "Translation": "She who is Tested"
+  },
+  {
+    "No": 61,
+    "Translation": "Column"
+  },
+  {
+    "No": 62,
+    "Translation": "Friday"
+  },
+  {
+    "No": 63,
+    "Translation": "The Hypocrites"
+  },
+  {
+    "No": 64,
+    "Translation": "Gathering"
+  },
+  {
+    "No": 65,
+    "Translation": "Divorce"
+  },
+  {
+    "No": 66,
+    "Translation": "Prohibition"
+  },
+  {
+    "No": 67,
+    "Translation": "Sovereignty"
+  },
+  {
+    "No": 68,
+    "Translation": "The Pen"
+  },
+  {
+    "No": 69,
+    "Translation": "The Reality"
+  },
+  {
+    "No": 70,
+    "Translation": "Ways of Ascent"
+  },
+  {
+    "No": 71,
+    "Translation": "Noah"
+  },
+  {
+    "No": 72,
+    "Translation": "The Jinn"
+  },
+  {
+    "No": 73,
+    "Translation": "The Enwrapped"
+  },
+  {
+    "No": 74,
+    "Translation": "The Enrobed"
+  },
+  {
+    "No": 75,
+    "Translation": "Resurrection"
+  },
+  {
+    "No": 76,
+    "Translation": "Man"
+  },
+  {
+    "No": 77,
+    "Translation": "The Unleashed"
+  },
+  {
+    "No": 78,
+    "Translation": "The Event"
+  },
+  {
+    "No": 79,
+    "Translation": "The Snatchers"
+  },
+  {
+    "No": 80,
+    "Translation": "He Frowned"
+  },
+  {
+    "No": 81,
+    "Translation": "The Rolling"
+  },
+  {
+    "No": 82,
+    "Translation": "The Shattering"
+  },
+  {
+    "No": 83,
+    "Translation": "The Defrauders"
+  },
+  {
+    "No": 84,
+    "Translation": "The Rupture"
+  },
+  {
+    "No": 85,
+    "Translation": "The Constellations"
+  },
+  {
+    "No": 86,
+    "Translation": "The Pulsar"
+  },
+  {
+    "No": 87,
+    "Translation": "The Most High"
+  },
+  {
+    "No": 88,
+    "Translation": "The Overwhelming"
+  },
+  {
+    "No": 89,
+    "Translation": "The Dawn"
+  },
+  {
+    "No": 90,
+    "Translation": "The Land"
+  },
+  {
+    "No": 91,
+    "Translation": "The Sun"
+  },
+  {
+    "No": 92,
+    "Translation": "The Night"
+  },
+  {
+    "No": 93,
+    "Translation": "Morning Brighness"
+  },
+  {
+    "No": 94,
+    "Translation": "The Soothing"
+  },
+  {
+    "No": 95,
+    "Translation": "The Fig"
+  },
+  {
+    "No": 96,
+    "Translation": "Clot"
+  },
+  {
+    "No": 97,
+    "Translation": "Destiny"
+  },
+  {
+    "No": 98,
+    "Translation": "Clear Evidence"
+  },
+  {
+    "No": 99,
+    "Translation": "The Quake"
+  },
+  {
+    "No": 100,
+    "Translation": "The Racers"
+  },
+  {
+    "No": 101,
+    "Translation": "The Shocker"
+  },
+  {
+    "No": 102,
+    "Translation": "Abundance"
+  },
+  {
+    "No": 103,
+    "Translation": "Time"
+  },
+  {
+    "No": 104,
+    "Translation": "The Backbiter"
+  },
+  {
+    "No": 105,
+    "Translation": "The Elephant"
+  },
+  {
+    "No": 106,
+    "Translation": "Quraish"
+  },
+  {
+    "No": 107,
+    "Translation": "Assistance"
+  },
+  {
+    "No": 108,
+    "Translation": "Plenty"
+  },
+  {
+    "No": 109,
+    "Translation": "The Disbelievers"
+  },
+  {
+    "No": 110,
+    "Translation": "Victory"
+  },
+  {
+    "No": 111,
+    "Translation": "Thorns"
+  },
+  {
+    "No": 112,
+    "Translation": "Sincerity"
+  },
+  {
+    "No": 113,
+    "Translation": "Daybreak"
+  },
+  {
+    "No": 114,
+    "Translation": "Humankind"
+  }
+]
